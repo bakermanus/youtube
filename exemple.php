@@ -24,8 +24,8 @@ echo '<td>Type</td>';
 echo '<td>Extention</td>';
 echo '<td>Size</td>';
 echo '<td>FPS</td>';
-echo '<td>Bitrate</td>';
 echo '<td>Lenght</td>';
+echo '<td>Bitrate</td>';
 echo '<td>Link</td>';
 echo '</tr>';
 
